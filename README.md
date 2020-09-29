@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmwagar&layout=compact&exclude_repo=roachcoach,GiantOctopusVR,Siege,FlyingIslandGame,MissileMania,Aurora&hide=Makefile,c%23,css,html,perl,&langs_count=10" alt="ajmwagar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmwagar&show_icons=true" alt="ajmwagar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmwagar&show_icons=true&count_private=true" alt="ajmwagar" /></p>
