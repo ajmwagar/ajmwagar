@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmwagar" alt="ajmwagar" /> </p>
 
-- 🏢 I work at **[@Zipwhip](https://github.com/Zipwhip)**
+- 🏢 I do **software development at [@Zipwhip](https://github.com/Zipwhip)**
 
 - :school: I'm a student at **Ballard High School** and **North Seattle College**
 
