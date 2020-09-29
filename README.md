@@ -20,6 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Oxidizing my Workflow: Writing a Wayland window manager in Rust - Part 1: Setting Up](https://averywagar.com/posts/2019/06/oxidizing-my-workflow-writing-a-wayland-window-manager-in-rust-part-1-setting-up/)
+- [Fearless Multi-threading & Parallelism with Rust](https://averywagar.com/posts/2019/04/fearless-multi-threading-parallelism-with-rust/)
+- [Vim Tips and Tricks No. 1](https://averywagar.com/posts/2018/02/vim-tips-and-tricks-no.-1/)
+- [Configuring Vim for Java Development](https://averywagar.com/posts/2018/01/configuring-vim-for-java-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
