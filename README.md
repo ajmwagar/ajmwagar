@@ -6,8 +6,6 @@
 
 - 🏢 I **am a Systems Development Engineer at [@AWS](https://github.com/aws)**
 
-- :school: I'm a student at **Ballard High School** and **North Seattle College**
-
 - 🔭 I’m currently working on **setting up my Homelab.**
 
 - 🌱 I’m currently learning **about Micro-controllers and Embedded Software**
