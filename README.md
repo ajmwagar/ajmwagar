@@ -1,10 +1,10 @@
 <img align="center" src="./Banner.png"></img>
 <!--<h1 align="left">Hi 👋, I'm Avery Wagar</h1>-->
-<!--<h3 align="left">I do software development at @Zipwhip</h3>-->
+<!--<h3 align="left">I do systems development at @AWS</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmwagar" alt="ajmwagar" /> </p>
 
-- 🏢 I **develop software  at [@Zipwhip](https://github.com/Zipwhip)**
+- 🏢 I **am a Systems Development Engineer at [@AWS](https://github.com/aws)**
 
 - :school: I'm a student at **Ballard High School** and **North Seattle College**
 
