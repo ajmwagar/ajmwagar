@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Building a k3s cluster with Raspberry Pi 4s](https://averywagar.com/post/k3s-pi/)
 - [Oxidizing my Workflow: Writing a Wayland window manager in Rust - Part 1: Setting Up](https://averywagar.com/post/oxy-part1/)
-- [Fearless Multi-threading & Parallelism with Rust](https://averywagar.com/post/multithreading-rust/)
+- [Fearless Multi-threading &amp; Parallelism with Rust](https://averywagar.com/post/multithreading-rust/)
 - [Vim Tips and Tricks No. 1](https://averywagar.com/post/vim-tips/)
 <!-- BLOG-POST-LIST:END -->
 
