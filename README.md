@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmwagar" alt="ajmwagar" /> </p>
 
-- 🏢 I **am a Systems Development Engineer at [@AWS](https://github.com/aws)**
+<!--- 🏢 I **am a Systems Development Engineer at [@AWS](https://github.com/aws)**-->
 
 - 🔭 I’m currently working on **setting up my Homelab.**
 
